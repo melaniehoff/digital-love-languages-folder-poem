@@ -1,0 +1,120 @@
+
+
+copy + paste this url for SFPC Community Agreement for DLL participants to sign : )
+https://docs.google.com/document/d/1ooUWg1e8v2Ey9swQTK_jCqcHioiHU0c_dBLKBeyPWjM/
+
+
+What is a Community Agreement and why do we have one?
+
+Welcome to the School for Poetic Computation! SFPC is an artist-run school that explores the intersections of code, design, hardware and theory—focusing especially on artistic intervention. It’s a hybrid of a school, residency, and research group.
+
+This is our Community Agreement. It is a statement of our values, a guideline for relations between community members, and a scaffolding for the learning environment we co-create together. This living document serves as a foundation for our community to establish the conditions for mutual trust, respect, and support. When we commit to actively participating in the social material of our learning, we can best work together to create boundaries that make it easier for everyone to feel as safe and comfortable as possible.
+
+All members and guests of the SFPC community (students, teachers, organizers, event attendees, alumni, and others) agree to uphold the Community Agreement when entering community spaces, both physically and online. While the Community Agreement outlines behaviors that will not be tolerated within the community, it is not a punitive project. We acknowledge all people make mistakes; in these instances, the Community Agreement offers the community guidance on how to make mistakes gracefully by committing to unlearning harmful behaviors and collectively moving towards repair.
+
+SFPC is a school organized by people who are committed to working towards making space for people who exist within interlocking oppressed identities, including but not limited to, those who are Black, Indigenous, people of color, trans, queer, chronically ill, survivors, disabled, and low-income. We also are committed to being transparent about the ways in which we fall short of being accessible. Please write to us with feedback on how we can improve at info@sfpc.io. We understand safety is relative and in constant negotiation. We also distinguish safety from discomfort, as there is no such thing as a never uncomfortable space.
+
+
+
+
+Who is the Community Agreement for? In what context does the Community Agreement apply? Who upholds the Community Agreement?
+
+This Community Agreement applies to the SFPC community: students, teachers, organizers, event attendees, alumni, and anyone who engages in our physical and virtual space. The SFPC community is composed of people from a range of identities, socio-economic statuses, education levels, and backgrounds. In the creation of this Community Agreement, we particularly want to foreground active solidarity with and support for Black, Indigenous, people of color, trans, queer, chronically ill, survivors, disabled, low-income, and all other marginalized people, prioritizing their safety in our space over the comfort of those who are in more privileged positions.
+
+Our Community Agreement applies in various contexts, including:
+Our relations with one another:
+Our Community Agreement serves as the baseline from which we, the SFPC community, all grow, intended to negotiate mutual trust, respect, safety, consent, and comfort with one another.
+The feedback and critique we give to one another:
+Our Community Agreement establishes a solid foundation from which we can respectfully challenge one another and openly disagree.
+Things that we create:
+We recognize the roles of both the art industry and the technology industry in upholding harmful ideologies and power imbalances that disproportionately affect people at the intersections of oppressed identities. Our creative and pedagogical applications of art and technology (e.g. student projects, teaching, research, etc.) should uphold the values that are laid out in our Community Agreement, while actively acknowledging its lack of neutrality.
+How we engage in space, both physical and virtual:
+This includes classes, meetings, events, office hours, studio time, Slack, e-mail, etc. between any and all members of our community.
+
+Our Community Agreement belongs to everyone, and it is everyone's responsibility to uphold its application. We urge members of our community to reach out and speak up, crucially those in positions of power. Those in positions of power at SFPC are as capable of making mistakes as any other community member. (see section: “Power Relations we recognize in this space”).
+
+
+
+
+Acknowledging the Land, Indigenous People, and the Rest of the World
+
+155 Bank Street, Manhattan, where SFPC holds in-person classes and public events, is located on the unceded land of the Lenape people. SFPC’s presence here is inextricably tied to the forced displacement and genocide of the Lenape people. We are grateful for our opportunity to meet and work on this land. In all that we do here, we will hold respect for this land and for the Lenape people as central, and work towards unlearning and undoing the ongoing legacies of settler colonialism.
+
+SFPC is also an international community working within the power structure of global imperialism. When we meet online and in person, we hold space for those who are excluded from our meetings by physical infrastructures of the web, like cobalt mines and server farms, and of the state, like racist border fences and detention prisons erected along the US-Mexico border. As we wonder after poetic uses of computation from our positions within these imperialist systems, we commit to continually paying respect to those who are excluded from our conversations, and to imagining futures of technology, poetry, and politics that do not rely on the same violent dispossession that has brought us together in this way.
+
+For more resources on how to give a land acknowledgement, including resources on how to give your own, please visit: native-land.ca/resources/territory-acknowledgement
+
+
+
+
+How Our Values Translate into Our Relational Guidelines and Actions
+
+Prioritize the safety of BIPOC, queer, trans, disabled, femme, low-income, survivors, and all other marginalized people over the comfort of those in privileged positions.
+All forms of digital and physical harassment, including threats, offensive comments, and unwelcome sexual attention are unacceptable within our community.
+Actively listen to and honor the lived experiences of others. Do not invalidate or deny the lived experiences of others, even if it looks different from your own lived experience.
+Do not add emotional labor on QTBIPOC who are oppressively gendered. It is not the responsibility of those at the intersection of oppressed identities to educate those with privilege on their experiences. It is important for those in positions of power to do the emotional labor of unlearning. When you need help, ask others in positions of power who are doing this emotional labor for themselves.
+During the work towards repair and accountability between community members, we will always prioritize the needs of the survivor.
+
+Always keep mutual respect in mind when sharing space with others, including virtual space.
+Ask people how they want to be addressed instead of assuming their pronouns based on their outward appearance. Example: “Hi, my name is __ and my pronouns are they/them.” “I’m sorry, I missed your introduction. What are your pronouns?” For more information on pronouns, check out this guide published by GLSEN.
+
+Take up space mindfully, as there is a limited amount of space to speak in any given meeting, class or gathering. Be mindful of how much you and others are taking each week.
+Make space/take space. If you’re someone who tends to not speak a lot, consider moving into a role of speaking more. If you tend to speak a lot, consider moving into a role of listening more. Example: If you have something you really want to say and are conscious that you have spoken a lot, write it down and see if it’s worth coming back to later. (We learned this from Adrienne Maree Brown)
+Listen actively, and embrace awkward silences! An awkward silence is an opportunity for people who may take longer to respond to a prompt or who like to be sure they are not taking anyone else’s chance to speak.
+
+Cultivate a culture of consent.
+Be sure to ask for permission and preface your sharing with content warnings when talking about content that is potentially triggering for others. This includes past transgressions or problematic behaviors, as well as violence against marginalized people or communities.
+Always seek consent for physical contact. Example: “I like to hug my friends when we meet. Can I give you a hug?”
+Conversations involving intimate personal information will be kept to the group. Obtain permission to share things outside of the setting of learning.
+Ask for permission before using the work of others and credit work of others.  Example: “Hey, I’m writing a blog post and want to share a picture of a project you did at SFPC! Is it ok for me to post this pic? How do you want to be credited?”
+
+
+Be open to vulnerability, uncertainty, and experiencing discomfort. The stronger the culture of consent, the more possible this becomes.
+Cultivate a willingness to share risky thoughts; we are all learners here. When we give ourselves permission to be vulnerable, in turn we give to others. Example: “I made this project about how I feel lonely all the time.” “Thank you for sharing. Even if I don’t resonate with this feeling, I am grateful to you for showing up with your whole self.”
+Cultivate a willingness to make mistakes, to admit when we have, and to accept feedback from others. Interpret feedback for what it is: a gift and an investment in our education. Example: “When you interrupted me it felt like you did not care about listening to my ideas.” “Thank you for saying something, I do care about listening to your ideas and now I understand better how my actions were communicating otherwise.”
+
+Take accountability for your actions, centering impact over intent.
+If someone tells you they were hurt by something you did, thank them for telling you and apologize. If you need to reflect on the difference between the impact of your action on them and your intent, do that later, by yourself, or with a friend. Example: “Earlier today you made a joke without considering how it would make me feel.” “Thank you for telling me. I’m sorry I didn’t consider your feelings before I said that. I need to think about this more, and be more thoughtful in the future.”
+
+Understand and respect the commitments we make to each other. These include:
+Stewards and Organizers:
+Stewards and organizers work towards equitable distribution of labor, acknowledging their social positions as well as respective capacities.
+Stewards and organizers treat students as collaborators with formally acknowledged agencies to determine their individualized overall experiences within SFPC.
+Teachers:
+Teachers work towards equitable distribution of labor, acknowledging their social positions as well as respective capacities.
+Teachers have a shared pedagogy and acknowledge the equal importance each curriculum and crafted learning environment plays within the larger picture of a student’s experience within the school.
+Teachers treat students as collaborators with formally acknowledged agencies to shape their learning experiences.
+Students:
+Students are the drivers of their own learning experiences, and communicate their needs to teachers whenever possible. Students inform their teachers of absences ahead of time when possible.
+Students commit to each other as peers, encouraging, supporting, and challenging each others’ educational experiences. Students should be mindful of the space they take up and honor the agency of their fellow learners.
+
+
+
+
+Power Relations
+
+Hierarchies exist within SFPC. Some are explicit in the form of roles bestowed on teachers and organizers , and some may be unconsciously internalized (like experience and time spent in the space, or identity markers that intersect between race, class, gender identity, religion, sexual orientation, ability, etc.). Naming both intentional and unintentional forms of hierarchy, conscious and unconscious, is the first step towards our commitment to building an honest and inclusive learning environment that prioritizes collective growth over the role of any one individual.
+
+In the past, SFPC has operated in a way where community members have occupied the following roles: student, teaching assistant, teacher, administrator. We have also had visiting teachers, work study students, event attendees and alumni. We recognize the natural and frequent overlap between the roles of learner and teacher, and enthusiastically welcome their interchangeability. We recognize everyone’s responsibility to contribute to a shared stewardship of the space and learning environment.
+
+We know that people who come to this community share passions and develop deep and intimate relationships with each other. We also acknowledge the power and authority and asymmetry in student-teacher dynamics while we study, and ask that all community members keep this in mind when forming relationships inside and outside of the school. Teachers/organizers/stewards should not form sexual relationships with current students. In all cases, SFPC community members agree to build relationships with honest and vocal consent.
+
+
+
+
+Roadmap to Repair and Transformation
+
+Strong, trusting communities are built from making mistakes and facing up to them together. Taking accountability for actions, being honest when you feel a wrong has been done, and honoring and supporting those harmed by an action are all ways in which we build a regenerative community. We encourage community members to discuss issues in the moment as they come up, because learning how to be with each other honestly and consensually is part of our group study.
+
+Above all, always prioritize survivors—Especially Black trans women, trans-femmes, femmes, cis-women. Depending on the severity of circumstances in which these agreements are breached, as well as your proximity to privilege, you may be asked to leave an online space. You may be able to reenter another space if it is determined that it will be beneficial to your growth (needs of the survivor will remain priority).
+
+
+
+
+How was this Community Agreement developed?
+
+The School for Poetic Computation Community Agreement was developed by a working group nominated by SFPC staff in Fall 2020. The working group included Zainab Aliyu, Melanie Hoff, Celine Katzman, Galen Macdonald, and CS. The working group met five times and incorporated feedback from a larger group of staff.
+
+We are indebted to BUFU, NYU/ITP, and Recurse Centre for their codes of conduct.
+
+The Community Agreement is a living document. This version of the Community Agreement was last updated July 9, 2021.

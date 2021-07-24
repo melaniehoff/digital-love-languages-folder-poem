@@ -1,0 +1,62 @@
+Digital Love Languages: Sensory Commons is an introductory computing class based on the premise that there is a world where all our software is made by people who love us — and that world is possible. Digital Love Languages: Sensory Commons is an experiment in communion disguised as a class. A space to learn ~near each other~ after being apart for so long.
+
+Together, we will build small, personal software for affirming one another across physical distance while in physical proximity to each other. We will engage with code as a craft capable of expressing a full range of feeling and desire. We will explore social and digital consent and ask, how are they interwoven? Through a series of educational encounters, we build poetic structures for digital touching and practice a re-examination of personal and networked computing. This is a call to action for expanding computation’s capacity for fostering interdependence and feeling among the immense personal and collective transformations brought on by COVID-19.
+
+Learn more about the 10 week iteration of this class that ran online at SFPC last summer here: https://lovelanguages.melaniehoff.com/
+
+
+
+A class for reframing your relationship to computing, in relations with others.
+
+Seeping into proximity,
+Melanie & Olivia
+
+
+
+
+
+Expectations
+Proof of vaccination.
+Access to a laptop made in the last 6 years + the admin password.
+The willingness to question what it means to responsibly give and take access and control to our most intimate digital spaces.
+The willingness to create a space within yourself where you are open to becoming intimate with computers and writing poetry with their logic.
+The willingness to question what schooling, computing, and learning can be.
+The willingness to explore logic, structure, and desire as a source of inspiration and purpose.
+
+
+
+
+
+Syllabus
+Navigating file paths fluently using the terminal, an application that allows you to control your computer with text commands.
+Writing folder poetry in the terminal.
+The internet is a folder poem.
+Writing code as a love letter.
+Writing a social contract as a love letter.
+Building blocks of the web and networking.
+Fundamentals of frontend (HTML, CSS, JS).
+By the end of the series, we will create a recursive networked webzine to share and continually unfurl.
+
+
+
+
+
+Meet the Teachers
+Melanie Hoff (Teacher) is committed to creating spaces that foreground pleasure and celebration, that model sustainable support systems and make it possible for people to learn socially, ambiently, and holistically. Their work re-codes social norms, interfaces, and sex, through software, installation, and new choreographies of exchange. Melanie is a founding member of the Cybernetics Library and the collective Soft Surplus, where they strive to cultivate spaces of learning and feeling that encourage honesty and reconciliation for the ways we are shaped by systems of gender, racialization, class, and the trauma these systems inscribe upon our selves. They have exhibited their work at the New Museum, the Queens Museum, Tate Exchange London, The Internet Archive, Pioneer Works, and elsewhere. They do work they believe in at SFPC.
+
+
+Olivia McKayla Ross (Assistant Teacher) is a Caribbean American video artist, poet, programmer, and doula from New York City. Her work is inspired by the relationship between electronic video and vanity--by deep fantasy, Instagram filters, glamour magic, mirrors, and the fantasies and anxieties of video transmission; immersion, absorption, surveillance, and control. She hopes her practice as a “cyber” doula will encourage her beloved to nurture a critical relationship with technology. Olivia is Associate Producer on the Black Feminist speculative documentary Seeking Mavis Beacon and a frequent collaborator with The Current Museum of Art. She is pursuing a BFA/BA in Design & Technology and Screen Studies at The New School. An alum of the School for Poetic Computation, her work has been featured by P.P.O.W Gallery, Transfer Gallery, Bitch Media, Refinery 29, i-D UK, and i-D Italy.
+
+
+Is this session for me?
+This session is for you if:
+You think of yourself as "not a computer person."
+You are interested in creating an interconnected published group project together woth code.
+You are ready to reframe your relationship with computing and the web.
+You are excited to learn in physical proximity with others this summer.
+You are interested in being part of how SFPC is changing.
+You desire to define the boundaries that contain and free you.
+
+This session is not for you if:
+You can not be in Midtown NYC on Thursday evenings July 26th to August 29th.
+"You do not have the bandwidth for a life changing experience at this time." - American Artist
